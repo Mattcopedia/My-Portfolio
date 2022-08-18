@@ -41,7 +41,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Mathias CV Document-1(1).docx", 
+      href: "/Mathias CV Document-1 (1).docx", 
       download: true,
     },
     {
